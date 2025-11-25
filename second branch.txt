@@ -1,1 +1,2 @@
 New fail
+Зливаємо гілку second з гілкою main
